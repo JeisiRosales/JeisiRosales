@@ -2,7 +2,6 @@
 
 Contacto:
     <ul>
-        <li><strong>Teléfono:</strong> +58 412-3509643 </li>
         <li><strong>Correo Electrónico:</strong> jeisirosales2003@gmail.com </li>
         <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jeisi-rosales">www.linkedin.com/in/jeisi-rosales</a> </li>
         <li><strong>Ubicación:</strong> Venezuela </li>
