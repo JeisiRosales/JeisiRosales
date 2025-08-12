@@ -1,13 +1,13 @@
-### 👋 ¡Hola\! Soy Jeisi Rosales
+### 👋 ¡Hola! Soy Jeisi Rosales
 
-\<p align="left"\>
-\<a href="[https://www.linkedin.com/in/jeisi-rosales](https://www.google.com/search?q=https://www.linkedin.com/in/jeisi-rosales)" target="\_blank"\>
-\<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" alt="LinkedIn"/\>
-\</a\>
-\<a href="mailto:jeisirosales2003@gmail.com"\>
-\<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail"/\>
-\</a\>
-\</p\>
+<p align="left"\>
+<a href="[https://www.linkedin.com/in/jeisi-rosales](https://www.google.com/search?q=https://www.linkedin.com/in/jeisi-rosales)" target="\_blank"\>
+<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" alt="LinkedIn"\>
+<a\>
+<a href="mailto:jeisirosales2003@gmail.com"\>
+<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail"\>
+<a\>
+<p\>
 
 [cite\_start]Soy un estudiante de Licenciatura en Informática en la Universidad de Oriente (UDO) en Venezuela[cite: 2, 14], con una gran pasión por el desarrollo de software y el diseño de soluciones eficientes. [cite\_start]Actualmente, estoy buscando mi primera oportunidad laboral para aplicar mis conocimientos en proyectos desafiantes y continuar mi crecimiento profesional[cite: 11].
 
