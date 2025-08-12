@@ -1,13 +1,12 @@
 ### 👋 ¡Hola\! Soy Jeisi Rosales
 
-<p align="left">
-<a href="https://www.linkedin.com/in/jeisi-rosales" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:jeisirosales2003@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-</p>
+Contacto:
+    <ul>
+        <li><strong>Teléfono:</strong> +58 412-3509643 </li>
+        <li><strong>Correo Electrónico:</strong> jeisirosales2003@gmail.com </li>
+        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jeisi-rosales">www.linkedin.com/in/jeisi-rosales</a> </li>
+        <li><strong>Ubicación:</strong> Venezuela </li>
+    </ul>
 
 Soy un estudiante de Licenciatura en Informática en la Universidad de Oriente (UDO) en Venezuela, con una gran pasión por el desarrollo de software y el diseño de soluciones eficientes. Actualmente, estoy buscando mi primera oportunidad laboral para aplicar mis conocimientos en proyectos desafiantes y continuar mi crecimiento profesional.
 
