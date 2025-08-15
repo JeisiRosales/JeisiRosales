@@ -33,6 +33,8 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 |C++| SQL Server | Git|
 |C | | GitHub|
 |C# | | Power BI|
+|HTML - CSS - JS||SuapUI|
+
 
 -----
 
