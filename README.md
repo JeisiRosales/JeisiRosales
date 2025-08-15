@@ -7,9 +7,7 @@ Contacto:
         <li><strong>Ubicación:</strong> Venezuela </li>
     </ul>
 
-Soy un estudiante de Licenciatura en Informática en la Universidad de Oriente (UDO) en Venezuela, con una gran pasión por el desarrollo de software y el diseño de soluciones eficientes. Actualmente, estoy buscando mi primera oportunidad laboral para aplicar mis conocimientos en proyectos desafiantes y continuar mi crecimiento profesional.
-
-Me considero una persona con gran capacidad de análisis, responsable y proactiva, siempre dispuesto a aprender y colaborar en equipo.
+Soy un estudiante de Licenciatura en Informática en la Universidad de Oriente (UDO) en Venezuela, con una gran pasión por el desarrollo de software y el diseño de soluciones eficientes. Siempre dispuesto a aprender y colaborar en equipo.
 
 -----
 
