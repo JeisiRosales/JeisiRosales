@@ -15,7 +15,7 @@ Me considero una persona con gran capacidad de análisis, responsable y proactiv
 
 ### 🚀 Mi Experiencia
 
-Particiación en un proyecto universitario. Mis responsabilidades incluyen:
+Particiación en proyectos universitarios. Mis responsabilidades incluyen:
 
   - Diseño de estructuras de datos orientadas a objetos en **C++**.
   - Gestión de bases de datos con **SQL Server** para operaciones CRUD.
